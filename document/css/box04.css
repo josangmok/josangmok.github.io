@@ -17,12 +17,13 @@ nav{
     display: flex;
     justify-content: center;
 }
+/* 컨텐츠를 가운데 정렬 */
 
 .header03{
     display: flex;
     justify-content: space-between;
 }
-
+/* 컨텐츠를 사이드 정렬 좌 우 */
 .header04{
     display: flex;
     justify-content: space-between;
