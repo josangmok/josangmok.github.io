@@ -1,11 +1,11 @@
 $(function () {
 
-  $('.first_slider').slick({
+  $('.main_slider').slick({
     arrows: false,
-    autoplay: false,
-    dots: true
-  });
-
+    autoplay: true,
+    pauseOnHover: false,
+    pauseOnFocus: false,
+  })
 })
 
 
